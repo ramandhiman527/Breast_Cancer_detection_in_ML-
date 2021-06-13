@@ -1,4 +1,4 @@
-# Breast_Cancer_detection_in_ML
+# Breast Cancer detection in ML
 
 This program utilizes machine learning to predict if a tumor is malignant or benign using the Breast Cancer Wisconsin dataset.
 
@@ -11,8 +11,10 @@ Screening mammography is the type of mammogram that checks you when you have no 
 # Results
 An accuracy of 96% was achieved by using SVM model and after normalization technique after optimisation of C and Gamma parameters it was increased to a value of a 97%.
 
-# Link to dataset: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+# Link to dataset: 
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 # contact
 Email : ramandhiman527@gmail.com
+
 Linkedin : https://www.linkedin.com/in/raman-kumar-59182620a/
